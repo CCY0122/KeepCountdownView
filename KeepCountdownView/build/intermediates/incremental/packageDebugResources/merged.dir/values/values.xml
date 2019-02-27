@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="KeepCountdownView"><attr format="color" name="arcColor"/><attr format="color" name="numColor"/><attr format="dimension" name="arcStrokeWidth"/><attr format="dimension" name="numTextSize"/><attr format="integer" name="initDegree"/><attr format="integer" name="maxNum"/><attr format="boolean" name="isCW"/><attr format="dimension" name="radius"/><attr format="float" name="plusNumAnimDuration"/></declare-styleable>
+    <string name="app_name">KeepCountdownView</string>
+</resources>
