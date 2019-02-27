@@ -61,17 +61,7 @@ code：
 ```
 
 ## 可选属性
-    <declare-styleable name="KeepCountdownView">
-        <attr name="arcColor" format="color" />
-        <attr name="numColor" format="color" />
-        <attr name="arcStrokeWidth" format="dimension" />
-        <attr name="numTextSize" format="dimension" />
-        <attr name="initDegree" format="integer" />
-        <attr name="maxNum" format="integer" />
-        <attr name="isCW" format="boolean" />
-        <attr name="radius" format="dimension" />
-        <attr name="plusNumAnimDuration" format="float"/>
-    </declare-styleable>
+
 |描述|xml对应属性|默认值|
 |---|---|---|
 |圆弧颜色|arcColor|0xff33cc66|
