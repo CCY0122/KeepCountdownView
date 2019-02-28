@@ -9,7 +9,7 @@
 
 
 xml：
-```
+```xml
 <com.KeepCountdownView.KeepCountdownView
             android:id="@+id/keep1"
             android:layout_width="wrap_content"
@@ -21,7 +21,7 @@ xml：
 ```
 
 code：
-```
+```java
  @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
