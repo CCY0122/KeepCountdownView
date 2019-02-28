@@ -3,6 +3,8 @@
 
 ## 效果
 
+![效果图](https://github.com/CCY0122/KeepCountdownView/blob/master/dosbi-gbms4.gif)
+
 ## 使用方法
 
 
